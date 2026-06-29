@@ -1,7 +1,27 @@
+ACTIVITY 1: 
+START
+INPUT num1
+INPUT num2
+PROCESS sum  = num1 + num2
+DISPLAY sum
+END
+
+ACTIVITY 2:
+
 START
 INPUT score1
 NPUT score2
 NPUT score3
 PROCESS average = (score1+score2+score3) /3
 DISPLAY average
+END
+
+ACTIVITY 3:
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+       DISPLAY "Even"
+ELSE
+       DISPLAY "Odd"
+END IF
 END
