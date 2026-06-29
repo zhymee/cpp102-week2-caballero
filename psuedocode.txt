@@ -1,0 +1,7 @@
+START
+INPUT score1
+NPUT score2
+NPUT score3
+PROCESS average = (score1+score2+score3) /3
+DISPLAY average
+END
