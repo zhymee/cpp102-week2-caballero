@@ -1,0 +1,6 @@
+step 1: START
+step 2: num1
+step 3: num 2
+step 4: sum = num1 + num 2
+step 5: display sum
+step 6: end.
