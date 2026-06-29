@@ -1,6 +1,23 @@
 step 1: START
-step 2: num1
-step 3: num 2
-step 4: sum = num1 + num 2
+step 2: ask for num1
+step 3: ask for num 2
+step 4: compute sum = num1 + num 2
 step 5: display sum
 step 6: end.
+
+ACTIVITY 2: 
+Step 1: START
+Step 2: Ask for Score 1.
+Step 3: Ask for score 2.
+Step 4: Ask for Score 3.
+Step 5: Compute average = (score1+score2+score3) /3
+Step 6: DISPLAY average.
+Step 7: End.
+
+ACTIVITY 3: 
+Step 1: START
+Step 2: Ask for a number.
+Step 3:CXheck if number MOD 2 is equal to 0.
+Step 4:If yes, display "Even".
+Step 5:If yes, display "Odd".
+Step 6:End.
